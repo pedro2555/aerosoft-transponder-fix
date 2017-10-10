@@ -1,4 +1,4 @@
-# Aerosoft Transponder Fix
+# Aerosoft A32F Transponder Fix
 
 Makes the transponder activate between mode C and S in vPilot, on Aerosoft's A318, A319, A320, and A321.
 
