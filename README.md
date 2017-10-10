@@ -11,3 +11,5 @@ Makes the transponder activate between mode C and S in vPilot, on Aerosoft's A31
 3. Edit `FSUIPC.ini`, and add the sections appropriately as described in [FSUIPC.ini](https://github.com/pedro2555/aerosoft-transponder-fix/blob/master/FSUIPC.ini).
 
 4. Copy [`asa32f-xpndr.lua`](https://github.com/pedro2555/aerosoft-transponder-fix/blob/master/asa32f-xpndr.lua) to the `Modules` folder.
+
+_[Check fix for A2A's Aircraft](https://github.com/pedro2555/a2a-transponder-fix/blob/master/README.md)_
